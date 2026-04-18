@@ -1,2 +1,2 @@
-# versaldefomation
+# versaldeformation
 code for matrix deformation
